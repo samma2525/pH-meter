@@ -1,0 +1,66 @@
+#mySubmit {
+    width: 100px;
+    height: 20px;
+    font-family: 'Inconsolata', monospace;
+    background-color: #dcf0f0;
+    color: #0d445e;
+    border: #0d445e 2px solid;
+}
+
+#mySubmit:hover {
+    background-color: lightblue;
+}
+
+body {
+    font-family: 'Inconsolata', monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #dcf0f0;
+    color: #0d445e;
+}
+
+#pHtext:hover {
+    color: #4e798e;
+}
+
+#credits {
+    background-color: rgba(235, 251, 255, 0.649);
+    border: #0d445e 2px solid;
+    width: 400px;
+    opacity: 0.05;
+}
+
+#credits:hover {
+    background-color: rgba(235, 251, 255, 0.649);
+    border: #0d445e 2px solid;
+    width: 400px;
+    opacity: 0.7;
+}
+
+#resultSection {
+    background-color: rgba(235, 251, 255, 0.649);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: auto;
+    border: #0d445e 1px solid;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 60px;
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #f0f4f8;
+    border: 2px solid #0d445e;
+    border-radius: 3px;
+}
