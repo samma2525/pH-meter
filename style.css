@@ -74,3 +74,8 @@ a:hover {
     color: #024e73;
     text-decoration: underline;
 }
+
+#Note {
+    color: rgb(0, 131, 164);
+    font-weight: bold;
+}
