@@ -2,7 +2,7 @@
     width: 100px;
     height: 20px;
     font-family: 'Inconsolata', monospace;
-    background-color: #dcf0f0;
+    background-color: #f0f4f8;
     color: #0d445e;
     border: #0d445e 2px solid;
 }
@@ -63,4 +63,14 @@ h1 {
     background-color: #f0f4f8;
     border: 2px solid #0d445e;
     border-radius: 3px;
+}
+
+a {
+    color: #0373a7;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #024e73;
+    text-decoration: underline;
 }
